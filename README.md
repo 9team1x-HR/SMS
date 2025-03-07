@@ -3,7 +3,9 @@ pkg update
 pkg upgrade
 pkg install python
 pkg install git 
-pip install requests 
+pip install requests
+pip install -r requirements.txt
+
 ```
 
 
